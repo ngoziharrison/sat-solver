@@ -1,0 +1,10 @@
+[package]
+name = "sat-solver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "sat-solver"
+path = "main.rs"
